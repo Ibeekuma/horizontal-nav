@@ -12,7 +12,7 @@ h1 {
   text-align: center;
   color: #fff;
   margin: 0;
-  font-family: 'Bevan', sans-serif;
+  font-size: 2rem;
 }
 
 nav {
@@ -31,6 +31,7 @@ header {
   background-color: #79756f;
   border-bottom: 2px solid #595652;
   border-top: 2px solid #595652;
+  font-family: 'Bevan', cursive;
 }
 
 nav a {
